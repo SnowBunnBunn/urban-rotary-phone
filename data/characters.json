@@ -1,0 +1,52 @@
+{
+  "HESTIA_SSR": {
+    "id": "HESTIA_SSR",
+    "name": "Hestia (inspired)",
+    "rarity": "SSR",
+    "series": "Dan-like",
+    "tags": ["goddess","support","female_only"],
+    "path": "Support",
+    "base_stats": { "atk": 90, "hp": 900, "def": 70, "spd": 102, "crit": 0.10 },
+    "skills": ["HESTIA_BLESS","WARM_HEARTH","DIVINE_THREAD"]
+  },
+  "FREYA_SSR": {
+    "id": "FREYA_SSR",
+    "name": "Freya (inspired)",
+    "rarity": "SSR",
+    "series": "Dan-like",
+    "tags": ["goddess","buffer","female_only"],
+    "path": "Support",
+    "base_stats": { "atk": 100, "hp": 820, "def": 65, "spd": 105, "crit": 0.15 },
+    "skills": ["CHARM_OF_VALHALLA","GLIMMERING_GAZE","EUPHORIC_CHORUS"]
+  },
+  "AZRYNN_SSR": {
+    "id": "AZRYNN_SSR",
+    "name": "Azrynn",
+    "rarity": "SSR",
+    "series": "Original",
+    "tags": ["fighter","female_only"],
+    "path": "DPS",
+    "base_stats": { "atk": 130, "hp": 750, "def": 55, "spd": 108, "crit": 0.20 },
+    "skills": ["RADIANT_COMBO","STARFALL_IMPACT","AURA_OVERDRIVE"]
+  },
+  "MIKASA_SR": {
+    "id": "MIKASA_SR",
+    "name": "Mika (sword scout inspired)",
+    "rarity": "SR",
+    "series": "Scout-like",
+    "tags": ["dps","female_only"],
+    "path": "DPS",
+    "base_stats": { "atk": 95, "hp": 680, "def": 50, "spd": 112, "crit": 0.12 },
+    "skills": ["TRI_SLASH","ANCHOR_SHIFT","RESOLVE"]
+  },
+  "RIN_R": {
+    "id": "RIN_R",
+    "name": "Rin (mage apprentice inspired)",
+    "rarity": "R",
+    "series": "Magus-like",
+    "tags": ["caster","female_only"],
+    "path": "Support",
+    "base_stats": { "atk": 60, "hp": 520, "def": 40, "spd": 100, "crit": 0.05 },
+    "skills": ["EMBER_SPARK","FOCUS_SIGIL","ARCANE_TETHER"]
+  }
+}

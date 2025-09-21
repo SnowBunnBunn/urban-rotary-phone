@@ -1,0 +1,18 @@
+[
+  {
+    "id": "MSN_001",
+    "name": "Lower Dungeon Sweep",
+    "level": 1,
+    "recommended_power": 1000,
+    "modifiers": ["beast_type_enemies","poison_hazards"],
+    "rewards": { "gold": [100,200], "fragments": ["SR_ANY:1"] }
+  },
+  {
+    "id": "MSN_002",
+    "name": "Temple of Threads",
+    "level": 3,
+    "recommended_power": 2000,
+    "modifiers": ["warded_enemies","blessing_fields"],
+    "rewards": { "gold": [300,450], "fragments": ["SSR_TARGETED:HESTIA_SSR:1"] }
+  }
+]

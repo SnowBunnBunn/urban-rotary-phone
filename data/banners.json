@@ -1,0 +1,16 @@
+[
+  {
+    "id": "BNR_MULTIVERSE_MIX",
+    "name": "Cross-Realm Heroines",
+    "pool_tags": ["female_only"],
+    "exclude_tags": [],
+    "rate_up": ["AZRYNN_SSR"]
+  },
+  {
+    "id": "BNR_DANLIKE_GODDESSES",
+    "name": "Hearth & Starlight",
+    "pool_tags": ["female_only","Dan-like"],
+    "exclude_tags": [],
+    "rate_up": ["HESTIA_SSR","FREYA_SSR"]
+  }
+]
